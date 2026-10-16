@@ -44,7 +44,7 @@ Customers can register, log in, browse available products, place orders, and vie
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Sales & Customer Analytics Dashboard](Dashboard.png)
+![E-Commerce Sales & Customer Analytics Dashboard](screenshot/Dashboard.png)
 
 The dashboard highlights key performance indicators, category and product sales, profit analysis, city-wise sales, order status, customer information, and filtering options.
 
