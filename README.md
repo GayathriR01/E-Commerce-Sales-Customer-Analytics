@@ -42,6 +42,14 @@ Customers can register, log in, browse available products, place orders, and vie
 | Microsoft Power BI | Sales analytics and interactive dashboard visualization |
 
 
+## 📷 Login Page Preview
+
+![E-Commerce Sales & Customer Analytics Dashboard](screenshots/LoginPage.png)
+
+## 📷 Main Page Preview
+
+![E-Commerce Sales & Customer Analytics Dashboard](screenshots/MainPage.png)
+
 ## 📷 Dashboard Preview
 
 ![E-Commerce Sales & Customer Analytics Dashboard](screenshots/Dashboard.png)
