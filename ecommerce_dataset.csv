@@ -1,0 +1,14 @@
+﻿Order ID,Customer Name,Username,Email,Phone,City,Product,Category,Selling Price,Cost Price,Quantity,Total,Profit,Status
+13,jack,jack,jack@gmail.com,123456789,nagercoil,tomato ketchup,packed food,88.0,78.0,1,88.0,10.0,Ordered
+12,rathi,rathi,rathi@gmail.com,1234567890,chennai,biscuits,Snacks,100.0,80.0,1,100.0,20.0,Ordered
+11,rathi,rathi,rathi@gmail.com,1234567890,chennai,cofee,drinks,98.0,45.0,4,392.0,212.0,Ordered
+10,rathi,rathi,rathi@gmail.com,1234567890,chennai,tomato ketchup,packed food,88.0,78.0,2,176.0,20.0,Ordered
+9,rathi,rathi,rathi@gmail.com,1234567890,chennai,letils,staples,65.0,60.0,1,65.0,5.0,Ordered
+8,reena,reena,reena@gmail.com,1234567,madurai,juice,drinks,100.0,80.0,5,500.0,100.0,Ordered
+7,reena,reena,reena@gmail.com,1234567,madurai,chocolate,Snacks,10.0,8.0,10,100.0,20.0,Ordered
+6,reena,reena,reena@gmail.com,1234567,madurai,wheat,staples,65.0,54.0,5,325.0,55.0,Ordered
+5,jack,jack,jack@gmail.com,123456789,nagercoil,letils,staples,65.0,60.0,4,260.0,20.0,Ordered
+4,jack,jack,jack@gmail.com,123456789,nagercoil,biscuits,Snacks,100.0,80.0,6,600.0,120.0,Ordered
+3,jack,jack,jack@gmail.com,123456789,nagercoil,tea,drinks,89.0,54.0,4,356.0,140.0,Ordered
+2,jack,jack,jack@gmail.com,123456789,nagercoil,soup,packed food,98.0,88.0,5,490.0,50.0,Ordered
+1,jack,jack,jack@gmail.com,123456789,nagercoil,rice,staples,55.0,50.0,7,385.0,35.0,Ordered
